@@ -1,0 +1,11 @@
+﻿{
+  "Id": "n_nXL5E6c0q3irTnF-TSKg",
+  "Reference": "JRN9g9LAV0SAP9ycWprGFg/n_nXL5E6c0q3irTnF-TSKg",
+  "Name": "Navegador RPA",
+  "Type": "App",
+  "Created": "2022-05-15T22:16:52.9081666Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-15T22:16:52.9081666Z"
+}

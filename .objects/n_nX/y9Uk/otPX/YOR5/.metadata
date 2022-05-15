@@ -1,0 +1,16 @@
+﻿{
+  "Id": "YOR5bWTPgEmlJzCrdo6KgQ",
+  "Reference": "JRN9g9LAV0SAP9ycWprGFg/YOR5bWTPgEmlJzCrdo6KgQ",
+  "ParentRef": "JRN9g9LAV0SAP9ycWprGFg/otPXTBpw8kqXGIdm-OrXog",
+  "Name": "Adress",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-15T22:51:27.065483Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-15T22:51:54.8677381Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
